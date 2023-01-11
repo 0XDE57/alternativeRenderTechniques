@@ -10,7 +10,7 @@ Antichamber is a mind-bending psychological exploration game where nothing can b
 
 
 ### Stanley Parable
-Uses similar teleporting and camera trickery to anti-chamber in some parts
+Not super crazy but does uses some teleporting and camera trickery similar to anti-chamber in some parts
 
 
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=cWpFZbjtSQg
 
 
 
-### Marching squares / metaballs:
+### Marching squares / metaballs
 How Computers Draw Weird Shapes: 
 https://www.youtube.com/watch?v=6oMZb3yP_H8
 
