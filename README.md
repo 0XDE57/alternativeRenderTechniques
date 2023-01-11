@@ -62,3 +62,9 @@ https://www.youtube.com/watch?v=6oMZb3yP_H8
 ### General / unsorted
 How do non-euclidean games work? | Bitwise
 https://www.youtube.com/watch?v=lFEIUcXCEvI
+
+
+
+### Really cool blog on polytopes: high dimensional symmetry
+http://polytope.net/hedrondude/home.htm
+
